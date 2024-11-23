@@ -4,30 +4,33 @@ Ce dépôt contient mes notes de cours d'espagnol, organisées de manière struc
 
 ## 📝 Structure des Notes
 
-### [Grammaire](notes/01-grammaire/index.md)
+### [Grammaire](./notes/01-grammaire/readme.md)
 - Les bases (articles, pronoms, adjectifs)
 - Les verbes et leurs conjugaisons
 - Les temps (présent, futur proche, futur simple)
 - Les comparaisons et descriptions
 
-### [Vocabulaire](notes/02-vocabulaire/index.md)
+### [Vocabulaire](./notes/02-vocabulaire/readme.md)
 - La vie quotidienne
 - Les personnes et relations
 - Les loisirs et la culture
 - L'environnement
 - Les nombres et mesures
 
-### [Expressions Courantes](notes/03-expressions/index.md)
+### [Expressions Courantes](./notes/03-expressions/readme.md)
 - Expressions de base
 - Expressions idiomatiques
 - Situations courantes
 - Formules de politesse
 
-### [Exercices](notes/04-exercices/index.md)
+### [Exercices](./notes/04-exercices/readme.md)
 - Exercices de grammaire
 - Exercices de vocabulaire
 - Exercices de compréhension
 - Exercices de conversation
+
+### [Espagnol Argentin](./notes/05-espagnol-argentin/readme.md)
+- Spécificités de l'espagnol parlé en Argentine : voseo, lunfardo et particularités locales.
 
 ## 🎯 Niveaux et Progression
 
