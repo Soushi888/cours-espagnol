@@ -1,7 +1,3 @@
----
-title: Index du Vocabulaire
----
-
 # 📚 Index du Vocabulaire
 
 ## La Vie Quotidienne

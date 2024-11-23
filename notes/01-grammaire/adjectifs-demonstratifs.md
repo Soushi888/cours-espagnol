@@ -1,16 +1,3 @@
----
-title: "Grammaire - Adjectifs Démonstratifs"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - adjectifs
-themes:
-  - adjectifs démonstratifs
-  - démonstratifs
----
-
 # Adjectifs Démonstratifs
 
 ## 🎯 Objectifs du Cours

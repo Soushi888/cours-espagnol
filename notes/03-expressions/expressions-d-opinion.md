@@ -1,17 +1,3 @@
----
-title: "Expressions - L'Opinion"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - expressions
-  - opinion
-themes:
-  - avis
-  - goûts
-  - préférences
----
-
 # Expressions d'Opinion
 
 ## 🎯 Objectifs du Cours

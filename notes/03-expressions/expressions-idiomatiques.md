@@ -1,9 +1,3 @@
----
-type: note
-category: expressions
-tags: [expressions, idiomes]
----
-
 # Expressions Idiomatiques en Espagnol
 
 ## Expressions avec les mains

@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Actions et Attentes"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - actions
-themes:
-  - verbes
-  - attentes
----
-
 # Vocabulaire - Actions et Attentes
 
 ## 🎯 Objectifs du Cours

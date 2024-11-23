@@ -1,14 +1,3 @@
----
-title: "{{title}}"
-date: {{date}}
-niveau: {{niveau}}
-tags:
-  - espagnol
-  - cours
-themes:
-  - {{theme}}
----
-
 # {{title}}
 
 ## 🎯 Objectifs du Cours

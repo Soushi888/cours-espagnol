@@ -1,9 +1,3 @@
----
-type: note
-category: vocabulaire
-tags: [cinema, divertissement, loisirs]
----
-
 # Le Cinéma et le Divertissement
 
 ## Le Cinéma

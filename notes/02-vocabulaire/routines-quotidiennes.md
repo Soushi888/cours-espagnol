@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Routines Quotidiennes"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - routines
-themes:
-  - quotidien
-  - repas
----
-
 # Vocabulaire - Routines Quotidiennes
 
 ## 🎯 Objectifs du Cours

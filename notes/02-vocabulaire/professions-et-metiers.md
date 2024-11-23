@@ -1,18 +1,3 @@
----
-title: "Vocabulaire - Les Professions et Métiers"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - professions
-  - travail
-themes:
-  - emploi
-  - carrière
-  - études
----
-
 # Les Professions et Métiers
 
 ## 🎯 Objectifs du Cours

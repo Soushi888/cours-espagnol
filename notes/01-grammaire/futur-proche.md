@@ -1,16 +1,3 @@
----
-title: "Grammaire - Le Futur Proche"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - futur
-themes:
-  - verbes
-  - temps
----
-
 # Grammaire - Le Futur Proche
 
 ## 🎯 Objectifs du Cours

@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Royauté et Noblesse"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - royauté
-themes:
-  - noblesse
-  - royauté
----
-
 # Vocabulaire - Royauté et Noblesse
 
 ## 🎯 Objectifs du Cours

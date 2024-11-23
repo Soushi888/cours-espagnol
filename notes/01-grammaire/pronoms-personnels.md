@@ -1,16 +1,3 @@
----
-title: "Les Pronoms Personnels"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - pronoms
-themes:
-  - pronoms
-  - conjugaison
----
-
 # Les Pronoms Personnels
 
 ## 🎯 Objectifs du Cours

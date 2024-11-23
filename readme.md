@@ -1,7 +1,3 @@
----
-title: Index des Cours d'Espagnol
----
-
 # 📚 Cours d'Espagnol
 
 Ce dépôt contient mes notes de cours d'espagnol, organisées de manière structurée pour faciliter l'apprentissage progressif.

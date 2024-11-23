@@ -1,18 +1,3 @@
----
-title: "Vocabulaire - Sports et Loisirs"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - sports
-  - loisirs
-themes:
-  - activités
-  - passe-temps
-  - hobbies
----
-
 # Sports et Loisirs
 
 ## 🎯 Objectifs du Cours

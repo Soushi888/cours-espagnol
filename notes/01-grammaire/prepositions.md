@@ -1,16 +1,3 @@
----
-title: "Grammaire - Prépositions"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - prépositions
-themes:
-  - prépositions
-  - grammaire de base
----
-
 # Prépositions
 
 ## 🎯 Objectifs du Cours

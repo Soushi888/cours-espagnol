@@ -1,18 +1,3 @@
----
-title: "Vocabulaire - Couleurs et Formes"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - couleurs
-  - formes
-themes:
-  - couleurs
-  - formes
-  - description
----
-
 # Couleurs et Formes
 
 ## 🎯 Objectifs du Cours

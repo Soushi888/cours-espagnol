@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Présentation Personnelle"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - présentation
-themes:
-  - présentation
-  - description
----
-
 # Vocabulaire - Présentation Personnelle
 
 ## 📝 Expressions Clés

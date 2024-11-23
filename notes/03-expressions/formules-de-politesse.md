@@ -1,16 +1,3 @@
----
-title: "Formules de Politesse"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - expressions
-  - politesse
-themes:
-  - communication
-  - courtoisie
----
-
 # Formules de Politesse (La Cortesía)
 
 ## 🎯 Objectifs du Cours

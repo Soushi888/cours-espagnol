@@ -1,18 +1,3 @@
----
-title: "Vocabulaire - Vêtements et Accessoires"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - vêtements
-  - mode
-themes:
-  - vêtements
-  - accessoires
-  - shopping
----
-
 # Vêtements et Accessoires
 
 ## 🎯 Objectifs du Cours

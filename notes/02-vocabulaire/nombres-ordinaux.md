@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Nombres Ordinaux"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - nombres
-themes:
-  - nombres
-  - ordre
----
-
 # Vocabulaire - Nombres Ordinaux
 
 ## 🎯 Objectifs du Cours

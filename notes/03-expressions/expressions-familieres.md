@@ -1,16 +1,3 @@
----
-title: "Expressions - Expressions Familières"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - expressions
-  - familier
-themes:
-  - argot
-  - familier
----
-
 # Expressions - Expressions Familières
 
 ## 🎯 Objectifs du Cours

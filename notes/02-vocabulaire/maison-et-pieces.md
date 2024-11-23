@@ -1,18 +1,3 @@
----
-title: "Vocabulaire - La Maison et les Pièces"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - maison
-  - habitat
-themes:
-  - logement
-  - mobilier
-  - ménage
----
-
 # La Maison et les Pièces
 
 ## 🎯 Objectifs du Cours

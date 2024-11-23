@@ -1,7 +1,3 @@
----
-title: Index des Exercices
----
-
 # 📚 Index des Exercices
 
 ## Exercices de Traduction

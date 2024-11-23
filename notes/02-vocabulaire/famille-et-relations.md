@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Famille et Relations"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - famille
-themes:
-  - famille
-  - relations
----
-
 # Vocabulaire - Famille et Relations
 
 ## 🎯 Objectifs du Cours

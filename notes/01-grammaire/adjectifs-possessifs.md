@@ -1,17 +1,3 @@
----
-title: "Les Adjectifs et Pronoms Possessifs"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - adjectifs
-  - pronoms
-themes:
-  - possession
-  - déterminants
----
-
 # Les Adjectifs et Pronoms Possessifs
 
 ## 🎯 Objectifs du Cours

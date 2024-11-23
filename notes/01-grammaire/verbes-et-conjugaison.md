@@ -1,16 +1,3 @@
----
-title: "Grammaire - Verbes et Conjugaison"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - verbes
-themes:
-  - conjugaison
-  - verbes
----
-
 # Grammaire - Verbes et Conjugaison
 
 ## 🎯 Objectifs du Cours

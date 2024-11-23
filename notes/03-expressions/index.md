@@ -1,7 +1,3 @@
----
-title: Index des Expressions Courantes
----
-
 # 📚 Index des Expressions
 
 ## Expressions de Base

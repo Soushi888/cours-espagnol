@@ -1,9 +1,3 @@
----
-type: note
-category: grammaire
-tags: [verbes, expressions]
----
-
 # Verbes Courants et Leurs Utilisations
 
 ## Verbes d'État et de Sentiment

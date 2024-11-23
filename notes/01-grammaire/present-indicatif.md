@@ -1,17 +1,3 @@
----
-title: "Grammaire - Le Présent de l'Indicatif"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - conjugaison
-  - présent
-themes:
-  - verbes
-  - temps
----
-
 # Le Présent de l'Indicatif
 
 ## 🎯 Objectifs du Cours

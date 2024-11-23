@@ -1,17 +1,3 @@
----
-title: "Grammaire - Les Comparatifs et Superlatifs"
-date: 2024
-niveau: A2
-tags:
-  - espagnol
-  - grammaire
-  - comparaison
-themes:
-  - adjectifs
-  - adverbes
-  - expressions
----
-
 # Les Comparatifs et Superlatifs
 
 ## 🎯 Objectifs du Cours

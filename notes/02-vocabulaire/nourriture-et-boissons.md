@@ -1,18 +1,3 @@
----
-title: "Vocabulaire - Nourriture et Boissons"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - nourriture
-  - boissons
-themes:
-  - alimentation
-  - repas
-  - restaurant
----
-
 # Nourriture et Boissons
 
 ## 🎯 Objectifs du Cours

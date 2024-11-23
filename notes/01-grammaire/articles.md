@@ -1,16 +1,3 @@
----
-title: "Grammaire - Les Articles"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - articles
-themes:
-  - articles définis
-  - articles indéfinis
----
-
 # Les Articles
 
 ## 🎯 Objectifs du Cours

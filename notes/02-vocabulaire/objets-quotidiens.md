@@ -1,17 +1,3 @@
----
-title: "Vocabulaire - Objets Quotidiens"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - objets
-themes:
-  - maison
-  - vêtements
-  - accessoires
----
-
 # Vocabulaire - Objets Quotidiens
 
 ## 🎯 Objectifs du Cours

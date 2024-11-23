@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Le Temps et l'Heure"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - temps
-themes:
-  - temps
-  - heure
----
-
 # Vocabulaire - Le Temps et l'Heure
 
 ## 🎯 Objectifs du Cours

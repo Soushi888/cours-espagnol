@@ -1,16 +1,3 @@
----
-title: "Ser y Estar - Les deux verbes être"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - verbes
-themes:
-  - verbes être
-  - conjugaison
----
-
 # Ser y Estar - Les deux verbes être
 
 ## 🎯 Objectifs du Cours

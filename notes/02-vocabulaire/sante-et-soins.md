@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Santé et Soins"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - santé
-themes:
-  - santé
-  - médical
----
-
 # Vocabulaire - Santé et Soins
 
 ## 🎯 Objectifs du Cours

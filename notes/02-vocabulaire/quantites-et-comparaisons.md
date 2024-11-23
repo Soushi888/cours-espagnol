@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Quantités et Comparaisons"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - quantités
-themes:
-  - comparaisons
-  - quantités
----
-
 # Vocabulaire - Quantités et Comparaisons
 
 ## 🎯 Objectifs du Cours

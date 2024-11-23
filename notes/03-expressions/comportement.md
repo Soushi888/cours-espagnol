@@ -1,16 +1,3 @@
----
-title: "Expressions - Le Comportement"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - expressions
-  - comportement
-themes:
-  - comportement
-  - description
----
-
 # Expressions - Le Comportement
 
 ## 🎯 Objectifs du Cours

@@ -1,18 +1,3 @@
----
-title: "Grammaire - Le Futur Simple"
-date: 2024
-niveau: A2
-tags:
-  - espagnol
-  - grammaire
-  - conjugaison
-  - futur
-themes:
-  - temps
-  - verbes
-  - projets
----
-
 # Le Futur Simple
 
 ## 🎯 Objectifs du Cours

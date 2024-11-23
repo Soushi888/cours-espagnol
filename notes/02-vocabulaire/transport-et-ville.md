@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Transport et Ville"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - transport
-themes:
-  - ville
-  - transport
----
-
 # Vocabulaire - Transport et Ville
 
 ## 🎯 Objectifs du Cours

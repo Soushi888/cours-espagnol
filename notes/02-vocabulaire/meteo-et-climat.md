@@ -1,18 +1,3 @@
----
-title: "Vocabulaire - Météo et Climat"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - météo
-  - climat
-themes:
-  - météo
-  - climat
-  - saisons
----
-
 # Météo et Climat
 
 ## 🎯 Objectifs du Cours

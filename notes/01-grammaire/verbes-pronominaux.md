@@ -1,16 +1,3 @@
----
-title: "Grammaire - Verbes Pronominaux"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - grammaire
-  - verbes
-themes:
-  - verbes pronominaux
-  - conjugaison
----
-
 # Verbes Pronominaux
 
 ## 🎯 Objectifs du Cours

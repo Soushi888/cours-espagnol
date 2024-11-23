@@ -1,16 +1,3 @@
----
-title: "Expressions - Salutations et Vœux"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - expressions
-  - salutations
-themes:
-  - politesse
-  - voeux
----
-
 # Expressions - Salutations et Vœux
 
 ## 🎯 Objectifs du Cours

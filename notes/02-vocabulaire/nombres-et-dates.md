@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Nombres et Dates"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - nombres
-themes:
-  - nombres
-  - dates
----
-
 # Vocabulaire - Nombres et Dates
 
 ## 🎯 Objectifs du Cours

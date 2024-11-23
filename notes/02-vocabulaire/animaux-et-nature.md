@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Animaux et Nature"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - animaux
-themes:
-  - nature
-  - animaux
----
-
 # Vocabulaire - Animaux et Nature
 
 ## 🎯 Objectifs du Cours

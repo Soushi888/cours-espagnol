@@ -1,16 +1,3 @@
----
-title: "Exercice - Cuento de Invierno"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - exercice
-  - traduction
-themes:
-  - narration
-  - description
----
-
 # Exercice - Cuento de Invierno (Conte d'Hiver)
 
 ## 📝 Texte Original

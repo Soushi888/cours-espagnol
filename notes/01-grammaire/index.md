@@ -1,7 +1,3 @@
----
-title: Index de Grammaire
----
-
 # 📚 Index des Notes de Grammaire
 
 ## Les Bases

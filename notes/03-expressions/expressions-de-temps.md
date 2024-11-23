@@ -1,17 +1,3 @@
----
-title: "Expressions - Le Temps"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - expressions
-  - temps
-themes:
-  - horaires
-  - fréquence
-  - durée
----
-
 # Expressions de Temps
 
 ## 🎯 Objectifs du Cours

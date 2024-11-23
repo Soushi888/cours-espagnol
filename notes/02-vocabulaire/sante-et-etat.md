@@ -1,16 +1,3 @@
----
-title: "Vocabulaire - Santé et État"
-date: 2024
-niveau: A1
-tags:
-  - espagnol
-  - vocabulaire
-  - santé
-themes:
-  - santé
-  - état physique
----
-
 # Vocabulaire - Santé et État
 
 ## 🎯 Objectifs du Cours
